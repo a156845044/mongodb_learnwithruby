@@ -21,7 +21,7 @@ gem 镜像
 
 2.中国区网关 https://gems.ruby-china.com    (https://gems.ruby-china.org 这个网站因为备案问题无法访问，改用com 后缀 )
 
-3.淘宝网关 https://ruby.taobao.org/
+3.淘宝网关 https://ruby.taobao.org/ (淘宝已经不维护了)
 
 ```base
 $ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
