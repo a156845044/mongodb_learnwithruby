@@ -4,7 +4,8 @@ DATABASE_NAME = "twitter-archive"
 COLLECTION_NAME = "tweets"
 TAGS = ["#MongoDB", "#Mongo"]
 
-CONSUMER_KEY = ""
+API_KEY = ""
 CONSUMER_SECRET = ""
-TOKEN = ""
+ACCESS_TOKEN = ""
 TOKEN_SECRET = ""
+
